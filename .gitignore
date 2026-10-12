@@ -1,0 +1,11 @@
+# Xcelium / SimVision / IMC outputs
+xcelium.d/
+INCA_libs/
+cov_work/
+*.shm/
+.simvision/
+*.log
+*.history
+*.key
+*.diag
+*.err
